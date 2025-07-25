@@ -38,7 +38,7 @@ export default function Grove() {
     {
       question: "What types of plants does Grove support?",
       answer:
-        "Grove currently supports vegetables, fruits, and common houseplants. We can detect 30+ diseases across tomatoes, potatoes, apples, roses, and many other plants.",
+        "Grove currently supports vegetables, fruits, and common houseplants. We can detect 30+ diseases across tomatoes, potatoes, apples, and many other plants.",
     },
     {
       question: "Is Grove free to use?",
