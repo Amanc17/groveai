@@ -971,7 +971,7 @@ export default function Grove() {
           </div>
 
           <div className="border-t border-grove-light/10 mt-8 pt-8 text-center">
-            <p className="text-grove-light/70">© 2024 Grove. All rights reserved.</p>
+            <p className="text-grove-light/70">© 2025 Grove. All rights reserved.</p>
           </div>
         </div>
       </footer>
